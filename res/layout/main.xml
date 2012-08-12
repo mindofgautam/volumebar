@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.sourcebits.gautam.volumeBar.VolumeButton
+        android:id="@+id/sliderButton"
+        android:layout_width="172dp"
+        android:layout_height="118dp"
+        android:layout_x="23dp"
+        android:layout_y="85dp" />
+
+</AbsoluteLayout>
